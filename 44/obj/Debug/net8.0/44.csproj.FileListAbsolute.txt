@@ -1,0 +1,14 @@
+C:\Users\New\Desktop\44\bin\Debug\net8.0\44.exe
+C:\Users\New\Desktop\44\bin\Debug\net8.0\44.deps.json
+C:\Users\New\Desktop\44\bin\Debug\net8.0\44.runtimeconfig.json
+C:\Users\New\Desktop\44\bin\Debug\net8.0\44.dll
+C:\Users\New\Desktop\44\bin\Debug\net8.0\44.pdb
+C:\Users\New\Desktop\44\obj\Debug\net8.0\44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\44\obj\Debug\net8.0\44.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\44\obj\Debug\net8.0\44.AssemblyInfo.cs
+C:\Users\New\Desktop\44\obj\Debug\net8.0\44.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\44\obj\Debug\net8.0\44.dll
+C:\Users\New\Desktop\44\obj\Debug\net8.0\refint\44.dll
+C:\Users\New\Desktop\44\obj\Debug\net8.0\44.pdb
+C:\Users\New\Desktop\44\obj\Debug\net8.0\44.genruntimeconfig.cache
+C:\Users\New\Desktop\44\obj\Debug\net8.0\ref\44.dll
